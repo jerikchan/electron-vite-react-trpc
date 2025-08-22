@@ -29,7 +29,7 @@
     "electron-trpc": "0.7.1",
     "electron-updater": "^6.3.9",
     "superjson": "^1.12.3",
-    "zod": "^3.21.4"
+    "zod": "^4.0.17"
   },
   "devDependencies": {
     "@playwright/test": "^1.48.2",
