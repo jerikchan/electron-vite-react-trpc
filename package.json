@@ -24,7 +24,7 @@
     "@tanstack/react-router": "^1.131.27",
     "@tanstack/react-router-devtools": "^1.131.27",
     "@trpc/client": "10.33.1",
-    "@trpc/react-query": "10.33.1",
+    "@trpc/react-query": "11.5.0",
     "@trpc/server": "10.33.1",
     "electron-trpc": "0.7.1",
     "electron-updater": "^6.3.9",
